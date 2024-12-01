@@ -15,7 +15,9 @@ body {
     margin: 0;
 
 }
-
+.music-player {
+    display: none; 
+}
 .quote-container {
 
     position: relative;
