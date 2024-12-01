@@ -1,0 +1,76 @@
+body {
+
+    font-family: Arial, sans-serif;
+
+    background-image:url("https://cloud-ky3fe8wzg-hack-club-bot.vercel.app/0pexels-media-325187.jpeg");
+
+    display: flex;
+
+    justify-content: center;
+
+    align-items: center;
+
+    height: 100vh;
+
+    margin: 0;
+
+}
+
+.quote-container {
+
+    position: relative;
+
+    padding: 20px;
+
+    border-radius: 10px;
+
+    color: #333;
+
+    width: 300px;
+
+    z-index: 1;
+
+    overflow: hidden;
+
+}
+
+
+#quote-text {
+
+    font-size: 4rem;
+
+    color: #333;
+
+    margin-bottom: 20px;
+
+}
+
+button {
+
+    padding: 10px 20px;
+
+    font-size: 1rem;
+
+    background-color: #3498db;
+
+    color: white;
+
+    border: none;
+
+    border-radius: 5px;
+
+    cursor: pointer;
+
+    margin: 10px;
+
+}
+
+button:hover {
+
+    background-color: violet;
+
+}
+.htxt{
+  align-items:top-centre;
+color:white;
+}
