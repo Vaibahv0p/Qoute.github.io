@@ -181,3 +181,6 @@ const fonts = [
     "Rokkitt, serif", 
     "Bitter, serif"
 ];
+const audioPlayer = document.getElementById('audioPlayer');
+
+audioPlayer.play();
