@@ -1,5 +1,3 @@
-
-
 const fonts = [
 
   'Arial', sans-serif;
